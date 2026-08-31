@@ -1,1 +1,14 @@
+# Raw source dataset
 data/raw/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database backups
+*.backup
+*.dump
